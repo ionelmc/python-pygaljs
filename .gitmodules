@@ -1,0 +1,3 @@
+[submodule "src/pygaljs/static"]
+	path = src/pygaljs/static
+	url = git@github.com:Kozea/pygal.js.git
