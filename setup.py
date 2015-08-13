@@ -23,7 +23,7 @@ def read(*names, **kwargs):
 
 
 setup(
-    name='pygal.js',
+    name='pygaljs',
     version='1.0.0',
     license='LGPLv3',
     description='Python package providing assets from https://github.com/Kozea/pygal.js',
