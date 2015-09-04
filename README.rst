@@ -26,3 +26,12 @@ Installation
 ::
 
     pip install pygal.js
+
+Releasing
+=========
+
+::
+
+
+    git submodule foreach "git fetch; git reset --hard origin/gh-pages"
+    git submodule sync
