@@ -24,7 +24,7 @@ def read(*names, **kwargs):
 
 setup(
     name='pygaljs',
-    version='1.0.0',
+    version='1.0.1',
     license='LGPLv3',
     description='Python package providing assets from https://github.com/Kozea/pygal.js',
     long_description='%s\n%s' % (read('README.rst'), re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst'))),
