@@ -8,13 +8,13 @@ pygal.js
     * - package
       - |version| |downloads|
 
-.. |version| image:: https://img.shields.io/pypi/v/pygal.js.svg?style=flat
+.. |version| image:: https://img.shields.io/pypi/v/pygaljs.svg?style=flat
     :alt: PyPI Package latest release
-    :target: https://pypi.python.org/pypi/pygal.js
+    :target: https://pypi.python.org/pypi/pygaljs
 
-.. |downloads| image:: https://img.shields.io/pypi/dm/pygal.js.svg?style=flat
+.. |downloads| image:: https://img.shields.io/pypi/dm/pygaljs.svg?style=flat
     :alt: PyPI Package monthly downloads
-    :target: https://pypi.python.org/pypi/pygal.js
+    :target: https://pypi.python.org/pypi/pygaljs
 
 Python package providing assets from https://github.com/Kozea/pygal.js
 
@@ -25,7 +25,7 @@ Installation
 
 ::
 
-    pip install pygal.js
+    pip install pygaljs
 
 Releasing
 =========
